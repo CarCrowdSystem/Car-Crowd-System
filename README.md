@@ -8,7 +8,7 @@
       height="105"
     />
 </p>
-<p align="center">Um sistema para monitorar estacionamentos.</p>
+<p align="center">Estacionar com facilidade e segurança é o nosso compromisso, deixe-nos cuidar do seu estacionamento enquanto você cuida dos seus negócios.</p>
 
 
 ## Objetivos do projeto
