@@ -2,7 +2,7 @@
 
 <p align="center">
     <img 
-      src="https://imgur.com"
+      src="https://imgur.com/a/x48rZyR"
       alt="logo CCS" 
       width="300" 
       height="105"
@@ -42,4 +42,4 @@
 - **Vitoria Vieira** - [vicvieirag](https://github.com/vicvieirag)
 
 ## Entre em contato
- <a href = "mailto:231-3adsc-grupo7@bandtec.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:231-3adsc-grupo7@bandtec.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
