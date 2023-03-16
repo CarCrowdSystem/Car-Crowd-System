@@ -4,8 +4,8 @@
     <img 
       src="https://imgur.com/y6BhY9s.png"
       alt="logo CCS" 
-      width="300" 
-      height="300"
+      width="200" 
+      height="200"
     />
 </p>
 <p align="center">Estacionar com facilidade e segurança é o nosso compromisso, deixe-nos cuidar do seu estacionamento enquanto você cuida dos seus negócios.</p>
