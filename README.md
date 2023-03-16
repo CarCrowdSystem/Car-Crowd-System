@@ -2,7 +2,7 @@
 
 <p align="center">
     <img 
-      src="https://imgur.com/a/x48rZyR"
+      src="https://imgur.com/y6BhY9s"
       alt="logo CCS" 
       width="300" 
       height="105"
