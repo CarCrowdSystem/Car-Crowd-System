@@ -21,6 +21,7 @@
 - NodeJS - Persistência dos dados na base
 - MySQL/SQL Server - Sistema de gerenciamento de banco de dados
 - Java - Lógica e API
+- Kotlin - App Android
 
 ## Regras de condução de equipe
 1.	Respeitar as opiniões dos colaboradores.
